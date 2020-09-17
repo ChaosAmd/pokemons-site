@@ -7,6 +7,8 @@ This reṕository has the purpose to show the purely functional development on a
 
 This is a a test on the purescript development environment with react. As this is a sandbox of a cutting-edge technology, it is not recommended to use as source for production development.
 
+The code is based on a previous version of [Taqtile frontend challenge](https://github.com/indigotech/taq-challenge)
+
 ## Configuring environment
 
 The nodejs and spago are ommited, they can be found on references.
