@@ -7,7 +7,7 @@ This reṕository has the purpose to show the purely functional development on a
 
 This is a a test on the purescript development environment with react. As this is a sandbox of a cutting-edge technology, it is not recommended to use as source for production development.
 
-The code is based on a previous version of [Taqtile frontend challenge](https://github.com/indigotech/taq-challenge)
+The code is based on a previous version of [Taqtile frontend challenge](https://github.com/indigotech/taq-challenge) and adaptation from the excellent article [How to Write PureScript React Components to Replace JavaScript](https://thomashoneyman.com/articles/replace-react-components-with-purescript/) by Thomas Honeyman.
 
 ## Configuring environment
 
@@ -39,3 +39,7 @@ The code will be atomic modularized. It will be transpiled in js and tested on l
 [NPM setup](http://npm.github.io/installation-setup-docs/index.html)
 
 [Spago Setup](https://github.com/purescript/spago)
+
+[Taqtile frontend challenge](https://github.com/indigotech/taq-challenge)
+
+[How to Write PureScript React Components to Replace JavaScript](https://thomashoneyman.com/articles/replace-react-components-with-purescript/)
