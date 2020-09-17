@@ -32,7 +32,7 @@ spago install react-basic react-basic-dom react-basic-hooks
 The code will be atomic modularized. It will be transpiled in js and tested on localhost:3000. Further stuff not designed or implemented yet.
 
 ### References
-[Purescript main site](https://www.purescript.org/)
+[Purescript](https://www.purescript.org/)
 
 [NPM setup](http://npm.github.io/installation-setup-docs/index.html)
 
